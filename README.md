@@ -13,7 +13,7 @@ Soy estudiante de Ingeniería Mecatrónica en la Facultad de Ingeniería de la U
 - 🎓 **Promedio académico:** 9.95/10.0 en Ingeniería Mecatrónica (UNAM)
 - 💡 **Visión:** Crear soluciones de automatización industrial y doméstica basadas en IA
 - 🤖 **Intereses:** Machine Learning, Análisis de Datos, Automatización, Robótica Competitiva
-- 🏆 **Liderazgo:** Tesorero de Axolotl R.C. (Robótica Competitiva) y próximo Tesorero de SAIMEC
+- 🏆 **Liderazgo:** Ex Tesorero de Axolotl R.C. (Robótica Competitiva)
 - 📊 **Especialización:** Transformar datos en soluciones prácticas con IA
 
 ---
